@@ -1,28 +1,5 @@
 # Rust
 
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
-```
-git fetch //controlla se ci sono aggiornamenti
-git pull //scarica gli aggiornamenti
-git commit -a -m "messaggio di commit" //aggiunge le modifiche alla staging area
-git push //aggiorna le modifiche sulla repo
-```
-```
-git branch my-branch
-git checkout my-branch //si usa sempre per swiotchare tra i branch
-git push --set-upstream origin my-branch
-```
-```
-git checkout dest-branch
-git merge from-branch //copia le modifiche di from-branch dentro dest-branch
-```
-
-***
-
 # PROGETTO SCREENSHOT
 
 Using the Rust programming language, create a screen grabbing utility capable of
